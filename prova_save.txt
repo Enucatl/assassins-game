@@ -1,0 +1,1 @@
+[('Matteo Abis', 'matteo@latinblog.org'), ('Giorgio Bettineschi', 'giorgiobet@yahoo.it')]
