@@ -5,7 +5,7 @@ from __future__ import division, print_function
 from Assassin import * 
 from random import shuffle
 
-assassins_dictionary = eval(open("assassins_db.dat").read())
+assassins_dictionary = eval(open("assassins_db_prova.dat").read())
 l = AssassinList()
 shuffled_list = assassins_dictionary.keys()
 shuffle(shuffled_list)
