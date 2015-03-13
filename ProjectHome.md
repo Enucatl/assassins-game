@@ -1,0 +1,1 @@
+Assassin (also Gotcha, Assassins, KAOS (Killing as organized sport), Juggernaut, Battle Royal, Paranoia, Killer, Tag, Elimination, or Circle of Death)
